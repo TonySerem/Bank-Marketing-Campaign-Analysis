@@ -34,17 +34,17 @@ Key Metrics:
 - Contact; Cellular/Telephone/Unknown
   
 ## Key Findings and Insights
-- Number of customers who subscribed to a term deposit: 
-5289 subscribed to the term deposit while 5873 did not subscribe to the term deposit, making the number of customers who subscribed to term deposit to be less by 584 customers compared to those who did not subscribe to a term deposit.
-- Customer subscription according to Job:
-Customers who worked in a managerial position had the highest number of subscriptions while customers who are entrepreneurs had the lowest number of subscriptions.
-- Customer subscription according to Marital Status:
-Married customers had the highest subscriptions at 15%, followed by single customers at 15%, then the divorced at 5%.
-- Customer subscription according to Education level:
-Secondary level customers had the highest subscriptions at 46%, followed by tertiary level customers at 38%, then primary level at 11%.
-Customer subscription according to Number of contacts with a customer during the campaign:
-- Between 1 – 6 contacts with a customer during the campaign had the highest number of subscriptions.
 
+- Number of customers who subscribed to a term deposit: 
+  5289 subscribed to the term deposit while 5873 did not subscribe to the term deposit, making the number of customers who subscribed to   term deposit to be less by 584 customers compared to those who did not subscribe to a term deposit.
+- Customer subscription according to Job:
+  Customers who worked in a managerial position had the highest number of subscriptions while customers who are entrepreneurs had the      lowest number of subscriptions.
+- Customer subscription according to Marital Status:
+  Married customers had the highest subscriptions at 15%, followed by single customers at 15%, then the divorced at 5%.
+- Customer subscription according to Education level:
+  Secondary level customers had the highest subscriptions at 46%, followed by tertiary level customers at 38%, then primary level at 11%.
+- Customer subscription according to Number of contacts with a customer during the campaign:
+  Between 1 – 6 contacts with a customer during the campaign had the highest number of subscriptions.
 
 ## Conclusion
 
